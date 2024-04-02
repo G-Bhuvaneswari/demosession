@@ -1,2 +1,2 @@
 # demosession
-this is a demo session 
+this is a demo session for user
